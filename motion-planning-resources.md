@@ -39,11 +39,11 @@ https://github.com/facontidavide/PlotJuggler
 ```
 
 # **Algorithm**
-##  Dynamic-Windows-Approach
+##  Dynamic Windows Approach (DWA)
 ```
 https://github.com/amslabtech/dwa_planner
 ```
-## Timed-Elastic-Band
+## Timed Elastic Band (TEB)
 ```
 https://github.com/rst-tu-dortmund/teb_local_planner
 ```
@@ -76,13 +76,13 @@ https://github.com/erdos-project/frenet_optimal_trajectory_planner
 mutiple Reference Smoothing models & Lateral Path Optimization based on Spatio Bicycle Model
 https://github.com/LiJiangnanBit/path_optimizer_2
 ```
-## Polytope Convex Space Generate (sikang)
+## Polytope Convex Space (sikang)
 ```
 https://github.com/sikang/DecompUtil
 ```
 ## MPDM
 ```
-Closed-loop and Interactive Prediction, Decision& Planning
+Closed-loop and Interactive Prediction, Decision&Planning
 https://github.com/HKUST-Aerial-Robotics/EPSILON
 ```
 ## Spline Based Trajectory
