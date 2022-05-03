@@ -257,4 +257,5 @@ https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav
 https://www.icra2022.org/program/competitions
 https://www.ieee-itsc2022.org/program/tpap-competition
 https://iros2022.org/program/competition/
+https://apollo.auto/devcenter/gameOperations_cn.html
 ```
