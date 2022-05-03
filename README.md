@@ -49,6 +49,7 @@ choose one classical algorithm for a general scenario and study deeply
 * [Open Autonomous Driving Platform](motion-planning-resources.md/#Open-Autonomous-Driving-Platform)
     * [Apollo](motion-planning-resources.md/##Apollo)
     * [Autoware](motion-planning-resources.md/##Autoware)
+* [Awesomes](motion-planning-resources.md/#Awesomes)
 * [Videos](motion-planning-resources.md/#Videos)
 * [Competition](motion-planning-resources.md/#Competition)
 

@@ -229,7 +229,13 @@ https://github.com/ApolloAuto
 ```
 https://github.com/Autoware-AI
 ```
-
+# **Awesomes"
+```
+https://github.com/DeepTecher/awesome-autonomous-vehicle
+https://github.com/daohu527/awesome-self-driving-car
+https://github.com/protontypes/awesome-robotic-tooling
+https://github.com/Dr-lzy/Robot-Planning-and-Control
+```
 # **Videos**
 ```
 自动驾驶规划控制分享
@@ -250,13 +256,6 @@ https://www.zhihu.com/people/zhang-lei-90-87-41
 https://www.zhihu.com/people/yi-ge-hao-ren-73-54
 https://www.zhihu.com/people/xiao-yy-45
 https://www.zhihu.com/people/zhuo-luo-feng-mang
-```
-# **Awesomes"
-```
-https://github.com/DeepTecher/awesome-autonomous-vehicle
-https://github.com/daohu527/awesome-self-driving-car
-https://github.com/protontypes/awesome-robotic-tooling
-https://github.com/Dr-lzy/Robot-Planning-and-Control
 ```
 # **Competition**
 ```
