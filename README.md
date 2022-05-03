@@ -1,8 +1,8 @@
 # motion-planning-resources
-collection of motion planning resources for lab HITCSC
+collection of motion planning resources
 [motion-planning-resources](https://github.com/zmwhit/motion-planning-resources)
 # what is motion planning
-In contrast of control problem which closed-loop design state&control variables using feedback in frequency domain and accouting for tracking a reference, motion planning problem open-loop design them  in time domain, accouting for avoiding obstacles and producing the smooth reference
+In contrast of control problem which closed-loop design state and control variables using feedback in frequency domain and accouting for tracking a reference, motion planning problem open-loop design them  in time domain, accouting for avoiding obstacles and producing the smooth reference
 # Take the First Step
 ## mobile wheeled robot
 > DWA [The dynamic window approach to collision avoidance](https://ieeexplore.ieee.org/document/580977)
@@ -19,7 +19,20 @@ choose only one classical algorithm for a general scenario and just study deeply
     * [Robotics Basic Algorithm](motion-planning-resources.md/##Robotics-Basic-Algorithm)
     * [ROS](motion-planning-resources.md/##ROS)
 * [Algorithm](motion-planning-resources.md/#Algorithm)
-    * TODO
+    * [DWA](motion-planning-resources.md/##Dynamic-Windows-Approach-(DWA))
+    * [TEB](motion-planning-resources.md/##Timed-Elastic-Band-(TEB))
+    * [HybridA*](motion-planning-resources.md/##Hybrid-Astar)
+    * [RRT](motion-planning-resources.md/##RRT&variants)
+    * [MPCC](motion-planning-resources.md/##Model-Predictive-Contouring-Controller-(MPCC))
+    * [Multi-Robot Planning](motion-planning-resources.md/##Search-Based-Multi-Robot-Planning)
+    * [Frenet Planning](motion-planning-resources.md/##Frenet-Optimal-Trajectory-Planning)
+    * [Path Optimizer](motion-planning-resources.md/##Path-Optimizer-(LiJiangnanBit))
+    * [Polytope Convex Space](motion-planning-resources.md/##Polytope-Convex-Space-(sikang))
+    * [EPSILON](motion-planning-resources.md/##EPSILON)
+    * [Spline Based Planning](motion-planning-resources.md/##Spline-Based-Planning)
+        * [Btraj](motion-planning-resources.md/##Btraj)
+        * [Fast-Planner](motion-planning-resources.md/###Fast-Planner)
+        * [Ego-Planner](motion-planning-resources.md/###Ego-Planner)
 * [Solver](motion-planning-resources.md/#Solver)
     * [POMDP](motion-planning-resources.md/##POMDP)
     * [QP](motion-planning-resources.md/##QP)

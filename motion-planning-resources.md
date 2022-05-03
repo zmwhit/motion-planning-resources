@@ -53,14 +53,14 @@ https://github.com/karlkurzer/path_planner
 https://github.com/zm0612/Hybrid_A_Star
 https://github.com/tejus-gupta/hybrid-astar-planner
 ```
+## RRT&variants
+```
+https://github.com/medalotte/sampling-based-planners
+```
 ## Model Predictive Contouring Controller (MPCC)
 ```
 https://github.com/alexliniger/MPCC
 https://github.com/ZJU-FAST-Lab/CMPCC
-```
-## RRT&variants
-```
-https://github.com/medalotte/sampling-based-planners
 ```
 ## Search Based Multi-Robot Planning
 ```
@@ -80,14 +80,35 @@ https://github.com/LiJiangnanBit/path_optimizer_2
 ```
 https://github.com/sikang/DecompUtil
 ```
-## MPDM
+## EPSILON
 ```
 Closed-loop and Interactive Prediction, Decision&Planning
 https://github.com/HKUST-Aerial-Robotics/EPSILON
 ```
-## Spline Based Trajectory
+## Spline Based Planning
+### Teach-Repeat-Replan
 ```
-
+https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan
+```
+### Btraj
+```
+https://github.com/HKUST-Aerial-Robotics/Btraj
+```
+### Fast-Planner
+```
+https://github.com/HKUST-Aerial-Robotics/Fast-Planner
+```
+### grad_traj_optimization
+```
+https://github.com/HKUST-Aerial-Robotics/grad_traj_optimization
+```
+### Ego-Planner
+```
+https://github.com/ZJU-FAST-Lab/ego-planner
+```
+### MINCO
+```
+https://github.com/ZJU-FAST-Lab/large_scale_traj_optimizer
 ```
 ## TODO:
 
@@ -189,7 +210,7 @@ https://mars.hku.hk
 ```
 https://github.com/NKU-MobFly-Robotics/
 ```
-## Hunan LiBai
+## HNU LiBai
 ```
 https://github.com/libai1943
 ```
@@ -208,7 +229,7 @@ https://github.com/ApolloAuto
 https://github.com/Autoware-AI
 ```
 
-# G. **Videos**
+# **Videos**
 ```
 自动驾驶规划控制分享
 https://space.bilibili.com/287989852
@@ -221,17 +242,16 @@ https://bit.baidu.com/product?column=2
 https://www.shenlanxueyuan.com/course/450
 ```
 
-# H. **Blogs**
+# **Blogs**
 ```
 https://www.zhihu.com/people/george-reagan
 https://www.zhihu.com/people/zhang-lei-90-87-41
 https://www.zhihu.com/people/yi-ge-hao-ren-73-54
 https://www.zhihu.com/people/xiao-yy-45
 https://www.zhihu.com/people/zhuo-luo-feng-mang
-https://www.zhihu.com/people/shen-shui-i-73
 ```
 
-# I. **Competition**
+# **Competition**
 ```
 https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav
 https://www.icra2022.org/program/competitions
