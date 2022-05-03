@@ -1,5 +1,6 @@
 # motion-planning-resources
 collection of motion planning resources
+
 [motion-planning-resources](https://github.com/zmwhit/motion-planning-resources)
 # what is motion planning
 In contrast of control problem which closed-loop design state and control variables using feedback in frequency domain and accouting for tracking a reference, motion planning problem open-loop design them  in time domain, accouting for avoiding obstacles and producing the smooth reference
