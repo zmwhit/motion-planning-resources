@@ -60,4 +60,4 @@ mkdir lib && cd lib
 sudo chmod 777 easy_install.sh
 bash easy_install.sh
 ```
-don't forget to type password when installing, this script may have some mistake, so you can copy and paste commands on your own, this could also also be fast :)
+don't forget to type password when installing, this script may have some mistake, so you can copy and paste commands on your own, this could also be fast :)
