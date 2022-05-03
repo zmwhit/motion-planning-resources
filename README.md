@@ -12,7 +12,7 @@ In contrast of control problem which closed-loop design state and control variab
 ## unmanned aerial vehicle
 > MinimumSnap [Minimum snap trajectory generation and control for quadrotors](https://ieeexplore.ieee.org/document/5980409)
 # Next Step
-choose only one classical algorithm for a general scenario and just study deeply
+choose one classical algorithm for a general scenario and study deeply
 * [Basic&Tools](motion-planning-resources.md/#Basic&Tools)
     * [C++](motion-planning-resources.md/##C++)
     * [Curve](motion-planning-resources.md/##Curve)
@@ -53,3 +53,11 @@ choose only one classical algorithm for a general scenario and just study deeply
 * [Competition](motion-planning-resources.md/#Competition)
 
 
+# Easy Install
+[script](easy_install.sh)
+```
+mkdir lib && cd lib
+sudo chmod 777 easy_install.sh
+bash easy_install.sh
+```
+don't forget to type password when installing, this script may have some mistake, so you can copy and paste commands on your own, this could also also be fast :)

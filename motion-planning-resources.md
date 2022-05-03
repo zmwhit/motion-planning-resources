@@ -28,6 +28,7 @@ https://github.com/ApolloAuto/apollo/tree/master/modules/common/math
 ```
 https://github.com/AtsushiSakai/PythonRobotics
 https://github.com/onlytailei/CppRobotics
+https://github.com/zhm-real/MotionPlanning
 ```
 ## ROS
 ```
@@ -236,7 +237,7 @@ https://space.bilibili.com/287989852
 https://space.bilibili.com/477041559
 北理工自动驾驶课程
 https://www.bilibili.com/video/BV1mq4y1R77s
-百度公开课
+百度自动驾驶公开课
 https://bit.baidu.com/product?column=2
 深蓝学院移动机器人
 https://www.shenlanxueyuan.com/course/450
@@ -250,7 +251,13 @@ https://www.zhihu.com/people/yi-ge-hao-ren-73-54
 https://www.zhihu.com/people/xiao-yy-45
 https://www.zhihu.com/people/zhuo-luo-feng-mang
 ```
-
+# **Awesomes"
+```
+https://github.com/DeepTecher/awesome-autonomous-vehicle
+https://github.com/daohu527/awesome-self-driving-car
+https://github.com/protontypes/awesome-robotic-tooling
+https://github.com/Dr-lzy/Robot-Planning-and-Control
+```
 # **Competition**
 ```
 https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav
