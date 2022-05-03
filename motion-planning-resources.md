@@ -229,7 +229,7 @@ https://github.com/ApolloAuto
 ```
 https://github.com/Autoware-AI
 ```
-# **Awesome**
+# **Awesomes**
 ```
 https://github.com/DeepTecher/awesome-autonomous-vehicle
 https://github.com/daohu527/awesome-self-driving-car
