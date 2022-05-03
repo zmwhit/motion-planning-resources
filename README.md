@@ -46,7 +46,7 @@ choose one classical algorithm for a general scenario and study deeply
     * [Udacity](motion-planning-resources.md/##Udacity)
     * [ROS-Stage](motion-planning-resources.md/##ROS-Stage)
 * [Lab&Group](motion-planning-resources.md/#Lab&Group)
-* [Open Autonomous Driving Platform](motion-planning-resources.md/#Open-Autonomous-Driving-Platform)
+* [Open Autonomous Driving Platform](motion-planning-resources.md/#Open-Autonomous-Driving-Platform )
     * [Apollo](motion-planning-resources.md/##Apollo)
     * [Autoware](motion-planning-resources.md/##Autoware)
 * [Awesomes](motion-planning-resources.md/#Awesomes)
