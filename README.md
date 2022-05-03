@@ -3,7 +3,7 @@ collection of motion planning resources
 
 [motion-planning-resources](https://github.com/zmwhit/motion-planning-resources)
 # what is motion planning
-In contrast of control problem which closed-loop design state and control variables using feedback in frequency domain and accouting for tracking a reference, motion planning problem open-loop design them  in time domain, accouting for avoiding obstacles and producing the smooth reference
+In contrast of control problem which closed-loop design state and control variables using feedback in frequency domain and accouting for tracking a reference, motion planning problem open-loop design them  in time domain, accouting for avoiding obstacles , satisfying physical constraints and then producing the smooth reference
 # Take the First Step
 ## mobile wheeled robot
 > DWA [The dynamic window approach to collision avoidance](https://ieeexplore.ieee.org/document/580977)
