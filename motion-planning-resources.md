@@ -1,38 +1,44 @@
-# 一、基础&工具
+# **Basic&Tools**
 ## C++
 ```
 https://github.com/Light-City/CPlusPlusThings
 https://github.com/TheAlgorithms/C-Plus-Plus
 ```
-## 曲线
-### 1. 螺旋线
+## Curve
+### Spiral
 ```
 https://github.com/jsford/PolyTraj
 https://github.com/lrm2017/SpiralsTrajactory
 ```
-### 2. 样条曲线
+### Spline
 ```
-https://kluge.in-chemnitz.de/opensource/spline/
+Cubic Spline interpolation
+https://kluge.in-chemnitz.de/opensource/spline
+NURBS, B-Splines, Bézier curves
 https://github.com/msteinbeck/tinyspline
 https://github.com/pryre/tinyspline_ros
 ```
-## 碰撞检测
+## Collision Check
 ```
 https://github.com/flexible-collision-library/fcl
 https://github.com/erincatto/box2d
+https://github.com/ApolloAuto/apollo/tree/master/modules/common/math
 ```
-## 机器人基础算法集合
+## Robotics Basic Algorithm 
 ```
 https://github.com/AtsushiSakai/PythonRobotics
 https://github.com/onlytailei/CppRobotics
 ```
-## RVIZ可视化
+## ROS
 ```
+RVIZ Visulization
 https://github.com/PickNikRobotics/rviz_visual_tools
 https://github.com/Magic-wei/ros_viz_tools
+Data Waves Visulization
+https://github.com/facontidavide/PlotJuggler
 ```
 
-# 二、算法
+# **Algorithm**
 ##  Dynamic-Windows-Approach
 ```
 https://github.com/amslabtech/dwa_planner
@@ -52,11 +58,11 @@ https://github.com/tejus-gupta/hybrid-astar-planner
 https://github.com/alexliniger/MPCC
 https://github.com/ZJU-FAST-Lab/CMPCC
 ```
-## RRT (variants)
+## RRT&variants
 ```
 https://github.com/medalotte/sampling-based-planners
 ```
-## Multi-Robot Search Based Planning
+## Search Based Multi-Robot Planning
 ```
 https://github.com/whoenig/libMultiRobotPlanning
 ```
@@ -76,12 +82,16 @@ https://github.com/sikang/DecompUtil
 ```
 ## MPDM
 ```
-Interactive Prediction, Decision& Planning
+Closed-loop and Interactive Prediction, Decision& Planning
 https://github.com/HKUST-Aerial-Robotics/EPSILON
+```
+## Spline Based Trajectory
+```
+
 ```
 ## TODO:
 
-# 三、求解器
+# **Solver**
 ## POMDP
 ```
 https://github.com/AdaCompNUS/despot
@@ -92,6 +102,7 @@ https://github.com/JuliaPOMDP/POMDPs.jl
 https://github.com/osqp/osqp
 https://github.com/robotology/osqp-eigen
 https://github.com/emgertz/OOQP
+https://github.com/ethz-asl/ooqp_eigen_interface
 ```
 ## NLP
 ```
@@ -110,7 +121,7 @@ https://github.com/ceres-solver/ceres-solver
 https://github.com/RainerKuemmerle/g2o
 ```
 
-# 四、仿真器
+# **Simulation**
 ## LGSVL
 ```
 https://github.com/lgsvl/simulator
@@ -120,24 +131,22 @@ https://github.com/lgsvl/simulator
 https://github.com/carla-simulator/carla
 https://github.com/DerrickXuNu/Learn-Carla
 ```
-## 强化学习
-```
-https://github.com/eleurent/highway-env
-https://github.com/bark-simulator/bark
-```
 ## Udacity
 ```
 https://github.com/udacity/CppND-Route-Planning-Project
 https://github.com/udacity/CarND-Path-Planning-Project
 https://github.com/udacity/CarND-MPC-Project
 ```
-## Robomaster
+## ROS-Stage
 ```
-https://github.com/RoboMaster/RoboRTS
-https://github.com/Privilger/RoboMaster-Simulator
+https://github.com/ros-simulation/stage_ros
 ```
-
-# 五、实验室
+## 强化学习
+```
+https://github.com/eleurent/highway-env
+https://github.com/bark-simulator/bark
+```
+# **Lab&Group**
 ## HKUST Aerial Robotics Group
 ```
 TODO: summarize awesome works
@@ -189,17 +198,17 @@ https://github.com/libai1943
 https://github.com/sjtu-cius
 ```
 
-# 六、自动驾驶开源方案
-## apollo
+# **Open Autonomous Driving Platform**
+## Apollo
 ```
 https://github.com/ApolloAuto
 ```
-## autoware
+## Autoware
 ```
 https://github.com/Autoware-AI
 ```
 
-# 七、学习视频
+# G. **Videos**
 ```
 自动驾驶规划控制分享
 https://space.bilibili.com/287989852
@@ -212,7 +221,7 @@ https://bit.baidu.com/product?column=2
 https://www.shenlanxueyuan.com/course/450
 ```
 
-# 八、博客
+# H. **Blogs**
 ```
 https://www.zhihu.com/people/george-reagan
 https://www.zhihu.com/people/zhang-lei-90-87-41
@@ -220,4 +229,12 @@ https://www.zhihu.com/people/yi-ge-hao-ren-73-54
 https://www.zhihu.com/people/xiao-yy-45
 https://www.zhihu.com/people/zhuo-luo-feng-mang
 https://www.zhihu.com/people/shen-shui-i-73
+```
+
+# I. **Competition**
+```
+https://www.robomaster.com/zh-CN/robo/icra?djifrom=nav
+https://www.icra2022.org/program/competitions
+https://www.ieee-itsc2022.org/program/tpap-competition
+https://iros2022.org/program/competition/
 ```
