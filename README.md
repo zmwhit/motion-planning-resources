@@ -7,6 +7,7 @@ In contrast of control problem which closed-loop design state and control variab
 # Take the First Step
 ## mobile wheeled robot
 > DWA [The dynamic window approach to collision avoidance](https://ieeexplore.ieee.org/document/580977)
+
 > ElasticBand [Elastic Bands: Connecting Path Planning and Control](https://ieeexplore.ieee.org/document/291936)
 ## autonomous driving car
 > Frenet [Optimal Trajectory Generation for Dynamic Street Scenarios in a Frenet Frame](https://ieeexplore.ieee.org/document/5509799/)
