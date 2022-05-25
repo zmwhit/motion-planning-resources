@@ -66,6 +66,7 @@ https://github.com/ZJU-FAST-Lab/CMPCC
 ## Search Based Multi-Robot Planning
 ```
 https://github.com/whoenig/libMultiRobotPlanning
+https://github.com/orgs/PathPlanning/repositories
 ```
 ## Frenet Optimal Trajectory Planning 
 ```
